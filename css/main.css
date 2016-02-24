@@ -19,7 +19,7 @@ div {
   padding: 1em;
   border-radius: 8px;
   border-width: 3px;
-  display: inline;
+  display: inline-block;
 }
 
 .btn-subtle {
