@@ -11,3 +11,9 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.primary {
+  color: #fff;
+  text-decoration: none;
+  
+}
