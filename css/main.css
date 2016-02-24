@@ -12,8 +12,39 @@ div {
   text-align: center;
 }
 
-.primary {
+.btn {
   color: #fff;
   text-decoration: none;
-  
+  background-color: #666;
+  padding: 1em;
+  border-radius: 8px;
+  border-width: 3px;
+  display: inline;
+}
+
+.btn-subtle {
+  color: #fff;
+  text-decoration: none;
+  background-color: #ccc;
+  padding: 1em;
+  border-radius: 8px;
+  border-width: 3px;
+}
+
+.btn-ghost {
+  color: #666;
+  text-decoration: none;
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 8px;
+  border-width: 3px;
+}
+
+.btn-warning {
+  color: #fff;
+  text-decoration: none;
+  background-color: #f33;
+  padding: 1em;
+  border-radius: 8px;
+  border-width: 3px;
 }
