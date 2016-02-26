@@ -20,7 +20,7 @@ div {
   border-radius: 8px;
   border-width: 3px;
   display: inline-block;
-  font-size: 1em;
+  font-size: 1.125em;
 }
 
 .btn-subtle {
@@ -31,7 +31,7 @@ div {
   border-radius: 8px;
   border-width: 3px;
   display: inline-block;
-  font-size: 1em;
+  font-size: 1.125em;
 }
 
 .btn-ghost {
@@ -41,7 +41,7 @@ div {
   border-width: 3px;
   padding: .4em;
   border-radius: 8px;
-  font-size: 1em;
+  font-size: 1.125em;
   display: inline;
   border-color: #666;
 }
@@ -51,13 +51,13 @@ div {
   text-decoration: none;
   border-width: 3px;
   border-radius: 8px;
-  font-size: 1em;
+  font-size: 1.125em;
   padding: .4em;
   background-color: #f33;
   display: inline-block;
 }
 
-.btn-smallbtn {
+btn-small {
   color: #fff;
   font-size: 0.875em;
   text-decoration: none;
@@ -68,7 +68,7 @@ div {
   display: inline-block;
 }
 
-.btn-smallbtn-subtle {
+.btn btn-subtle btn-small {
   color: #fff;
   text-decoration: none;
   background-color: #ccc;
@@ -78,27 +78,27 @@ div {
   font-size: 0.875em;
 }
 
-.btn-smallbtn-ghost {
+.btn btn-ghost btn-small {
   color: #666;
   text-decoration: none;
   background-color: #fff;
-  padding: 3em;
+  padding: .3em;
   border-radius: 8px;
   border-width: 3px;
   font-size: 0.875em;
 }
 
-.btn-smallbtn-warning {
+.btn btn-warning btn-small {
   color: #fff;
   text-decoration: none;
   background-color: #f33;
-  padding: .4em;
+  padding: .3em;
   border-radius: 8px;
   border-width: 3px;
   font-size: 0.875em;
 }
 
-.btn-bigbtn {
+.btn btn-big {
   color: #fff;
   text-decoration: none;
   background-color: #666;
@@ -108,7 +108,7 @@ div {
   font-size: 1.5em;
 }
 
-.btn-bigbtn-subtle {
+.btn btn-subtle btn-big {
   color: #fff;
   text-decoration: none;
   background-color: #ccc;
@@ -118,7 +118,7 @@ div {
   font-size: 1.5em;
 }
 
-.btnbtn-bigbtn-ghost {
+.btn btn-ghost btn-big {
   color: #666;
   text-decoration: none;
   background-color: #fff;
@@ -128,7 +128,7 @@ div {
   font-size: 1.5em;
 }
 
-.btn-bigbtn-warning {
+.btn btn-warning btn-big {
   color: #fff;
   text-decoration: none;
   background-color: #f33;
@@ -154,34 +154,34 @@ div {
   background-color: #666;
 }
 
-.btnbtn-smallbtn:hover {
+.btn btn-small:hover {
   background-color: #666;
 }
 
-.btnbtn-smallbtn-subtle:hover {
+.btn btn-subtle btn-small:hover {
   background-color: #666;
 }
 
-.btnbtn-smallbtn-ghost:hover {
+.btn btn-ghost btn-small:hover {
   background-color: #666;
 }
 
-.btnbtn-smallbtn-warning:hover {
+.btn btn-warning btn-small:hover {
   background-color: #666;
 }
 
-.btnbtn-bigbtn:hover {
+.btn btn-big:hover {
   background-color: #666;
 }
 
-.btnbtn-bigbtn-subtle:hover {
+.btn btn-subtle btnp:hover {
   background-color: #666;
 }
 
-.btnbtn-bigbtn-ghost:hover {
+.btn-bigbtn-ghost:hover {
   background-color: #666;
 }
 
-.btnbtn-bigbtn-warning:hover {
+.btn-bigbtn-warning:hover {
   background-color: #666;
 }

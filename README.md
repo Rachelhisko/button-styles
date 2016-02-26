@@ -24,16 +24,6 @@
 - *Button border width:* `3px`
 - *Expected class names:* `.btn`, `.btn-small`, `.btn-big`, `.btn-subtle`, `.btn-ghost`, `.btn-warning`
 
----
-
-## Goal
-
-Visually match the images in the “screenshots” folder and create the interaction shown in the linked video.
-
-- [Final screenshots in the “screenshots” folder.](screenshots)
-- [**Watch this video to see how it interacts.**](https://youtu.be/l0SGDDgRIII)
-
----
 
 ## Hand in
 
