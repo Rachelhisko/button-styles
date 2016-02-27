@@ -57,7 +57,7 @@ div {
   display: inline-block;
 }
 
-btn-small {
+.btn-small {
   color: #fff;
   font-size: 0.875em;
   text-decoration: none;
@@ -68,7 +68,7 @@ btn-small {
   display: inline-block;
 }
 
-.btn btn-subtle btn-small {
+.btn-subtle  {
   color: #fff;
   text-decoration: none;
   background-color: #ccc;
@@ -78,7 +78,7 @@ btn-small {
   font-size: 0.875em;
 }
 
-.btn btn-ghost btn-small {
+.btn-ghost {
   color: #666;
   text-decoration: none;
   background-color: #fff;
@@ -174,14 +174,14 @@ btn-small {
   background-color: #666;
 }
 
-.btn btn-subtle btnp:hover {
+.btn btn-subtle btn-big:hover {
   background-color: #666;
 }
 
-.btn-bigbtn-ghost:hover {
+.btn btn-ghost btn-big:hover {
   background-color: #666;
 }
 
-.btn-bigbtn-warning:hover {
+.btn btn-warning btn-big:hover {
   background-color: #666;
 }
